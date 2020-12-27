@@ -18,6 +18,7 @@
 11. [git status](status.md)
 12. [git log](log.md)
 13. [git show](show.md)
+
 ---
 LICENSE: [MIT](license.md)
 
